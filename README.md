@@ -11,7 +11,7 @@ Through six phases, we designed a compiler for subset of Java called **MacroJava
 The first part uses Flex and Bison
 The remaining parts use javacc and jtb
 
-> For details refer: http://www.cse.iitm.ac.in/~krishna/cs3300/cs3310.html
+> For details refer: http://www.cse.iitm.ac.in/~krishna/cs3300
 
 ###**Instructions for Execution:** 
 
