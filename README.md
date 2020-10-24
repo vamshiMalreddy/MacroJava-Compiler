@@ -15,12 +15,10 @@ The remaining parts use javacc and jtb
 
 ###**Instructions for Execution:** 
 
-Install javacc
+Install javacc on Ubuntu
 
 	On Ubuntu
 	apt-get install javacc
-	On Fedora
-	yum install javacc
 
 Find the required jj file in the "jj files" folder
 
